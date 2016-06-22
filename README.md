@@ -36,6 +36,8 @@
 * [论文程序代码一][14]
 * [论文程序代码二][15]
 
+![此处输入图片的描述][16]
+
 
   [1]: https://github.com/Adener/computationalphysics_N2013301020117/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A.md
   [2]: https://github.com/Adener/computationalphysics_N2013301020117/blob/master/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A.md
@@ -52,6 +54,8 @@
   [13]: https://github.com/Adener/computationalphysics_N2013301020117/blob/master/Python%E8%AE%BA%E6%96%87.pdf
   [14]: https://github.com/Adener/Program/blob/master/python%E8%AE%BA%E6%96%87%E4%BB%A3%E7%A0%811.py
   [15]: https://github.com/Adener/Program/blob/master/Python%E8%AE%BA%E6%96%87%E4%BB%A3%E7%A0%812.py
+  [16]: https://github.com/Adener/picture/blob/master/%E8%AF%97%E7%BB%8F%E5%9B%BE%E7%89%874.jpg
+  
 
 
 

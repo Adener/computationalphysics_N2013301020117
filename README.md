@@ -33,8 +33,8 @@
 ##第十四次作业（待补）
 
 ##[期末论文][13]
-* [程序代码一][14]
-* [程序代码二][15]
+* [论文程序代码一][14]
+* [论文程序代码二][15]
 
 
   [1]: https://github.com/Adener/computationalphysics_N2013301020117/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A.md
